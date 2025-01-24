@@ -1,0 +1,14 @@
+C:\Users\walki\source\repos\Conversion de Unidades de medida\bin\Debug\net8.0\Conversion de Unidades de medida.exe
+C:\Users\walki\source\repos\Conversion de Unidades de medida\bin\Debug\net8.0\Conversion de Unidades de medida.deps.json
+C:\Users\walki\source\repos\Conversion de Unidades de medida\bin\Debug\net8.0\Conversion de Unidades de medida.runtimeconfig.json
+C:\Users\walki\source\repos\Conversion de Unidades de medida\bin\Debug\net8.0\Conversion de Unidades de medida.dll
+C:\Users\walki\source\repos\Conversion de Unidades de medida\bin\Debug\net8.0\Conversion de Unidades de medida.pdb
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.AssemblyInfoInputs.cache
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.AssemblyInfo.cs
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.csproj.CoreCompileInputs.cache
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.dll
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\refint\Conversion de Unidades de medida.dll
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.pdb
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\Conversion de Unidades de medida.genruntimeconfig.cache
+C:\Users\walki\source\repos\Conversion de Unidades de medida\obj\Debug\net8.0\ref\Conversion de Unidades de medida.dll
